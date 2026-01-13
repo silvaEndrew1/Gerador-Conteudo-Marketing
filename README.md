@@ -1,1 +1,2 @@
-![Screenshot da Aplicação](assets/screenshot.png)
+![Demo](assets/demo.gif)
+
