@@ -1,5 +1,3 @@
-![Status](https://img.shields.io/badge/status-ativo-success)
-
 # 🤖 Gerador de Conteúdo para Marketing com IA
 
 Aplicação web que utiliza **Inteligência Artificial (LLM)** para gerar automaticamente conteúdos de marketing **otimizados para SEO**, adaptados a diferentes plataformas digitais.
@@ -94,6 +92,7 @@ Desenvolvedor Python | Inteligência Artificial e Automação
 GitHub: https://github.com/silvaEndrew1
 
 LinkedIn: https://www.linkedin.com/in/endrew-silva-14734914a/
+
 
 
 
